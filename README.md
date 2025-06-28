@@ -64,7 +64,7 @@ Dive deep into AI agent development, from simple chatbots to complex multi-agent
 ## 📚 Learning Path
 
 ```
-Beginner: GenAI Tutorial → Intermediate: Vibe Coding → Advanced: AI Agents
+Beginner: Vibe Coding → AI Agents
 ```
 
 ## 🎓 What You'll Learn
@@ -98,7 +98,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Workshop Events:** Attend live workshops and hackathons
 
+**Connect with us:**
+- [GitHub](https://github.com/techqueria)
+- [Slack](https://techqueria.slack.com/)
+- [Website](https://techqueria.org)
+- [Twitter](https://twitter.com/techqueria)
 
+*Part of the [Techqueria](https://techqueria.org) community - supporting Latinx professionals in tech.* 
 
 **¡Vamos a aprender juntos!** (Let's learn together!) 🚀
 
