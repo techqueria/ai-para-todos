@@ -1,6 +1,6 @@
 # 🎨 AI Para Todos - Vibe Coding Workshop
 
-**Date:** July 11th, 2024  
+**Date:** July 11th, 2025  
 **Level:** Beginner-friendly introduction to Generative AI
 
 Welcome to the first workshop in the AI Para Todos series! This hands-on workshop will take you from no-code to advanced coding with AI, using three powerful platforms.

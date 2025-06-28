@@ -38,35 +38,35 @@ class ElSalvadorNewsScraper:
                 "content": "El gobierno anunció un nuevo proyecto de tecnología que beneficiará a miles de estudiantes en la capital.",
                 "source": "elsalvador.com",
                 "category": "Tecnología",
-                "date": "2024-01-15"
+                "date": "2025-01-15"
             },
             {
                 "title": "Inauguración del nuevo centro comercial",
                 "content": "Se inauguró el centro comercial más grande de El Salvador, creando cientos de empleos.",
                 "source": "elsalvador.com",
                 "category": "Economía",
-                "date": "2024-01-14"
+                "date": "2025-01-14"
             },
             {
                 "title": "Éxito en el torneo de fútbol nacional",
                 "content": "El equipo nacional logró una victoria importante en el torneo regional.",
                 "source": "diarioelmundo.com.sv",
                 "category": "Deportes",
-                "date": "2024-01-13"
+                "date": "2025-01-13"
             },
             {
                 "title": "Avances en educación digital",
                 "content": "Las escuelas públicas implementan nuevas tecnologías para mejorar la educación.",
                 "source": "diarioelmundo.com.sv",
                 "category": "Educación",
-                "date": "2024-01-12"
+                "date": "2025-01-12"
             },
             {
                 "title": "Nuevas oportunidades de empleo",
                 "content": "Se anunciaron más de 500 nuevas posiciones en el sector tecnológico.",
                 "source": "elsalvador.com",
                 "category": "Empleo",
-                "date": "2024-01-11"
+                "date": "2025-01-11"
             }
         ]
         
