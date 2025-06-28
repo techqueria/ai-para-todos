@@ -46,8 +46,8 @@ Dive deep into AI agent development, from simple chatbots to complex multi-agent
 
 ```
 ai-para-todos/
-├── README.md                    # This file
-├── vibe-coding/                 # First workshop series
+├── README.md                   # This file
+├── vibe-coding/                # First workshop series
 │   ├── README.md               # Workshop overview
 │   ├── prompts/                # No-code and low-code prompts
 │   │   ├── lovable-dev/        # Lovable.dev project prompts
@@ -58,8 +58,6 @@ ai-para-todos/
 │   │   └── hello-world/        # Basic Python project
 │   ├── resources/              # Additional materials
 │   │   ├── setup-guides/       # Platform setup instructions
-│   │   └── templates/          # Project templates
-│   └── solutions/              # Completed project examples
 ├── ai-agents/                  # Second workshop series (coming soon)
 └── LICENSE                     # MIT License
 ```
