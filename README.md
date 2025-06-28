@@ -5,26 +5,26 @@ Welcome to **AI Para Todos** (AI for Everyone)! This repository contains three c
 ## 🎯 Workshop Series Overview
 
 ### 1. 🎨 [AI Para Todos - Vibe Coding](./vibe-coding/)
-**Beginner-friendly introduction to Generative AI**
+**Beginner-friendly introduction to Generative AI** *(July 11th, 2024)*
 
 Learn the fundamentals of Generative AI through hands-on projects using no-code and low-code tools. Perfect for those new to AI and coding.
 
-**Tools Used:**
-- 💗 Lovable.dev (No-code)
-- 🌐 Replit (Low-code)
-- ⚡ Cursor (Advanced coding)
+**Progression Path:**
+- **No-Code:** Lovable.dev (Prompts only)
+- **Low-Code:** Replit (Prompts + guided code)
+- **Advanced:** Cursor AI (Complete Python code)
 
 **Projects:**
-- Resume & Portfolio Generator
-- AI Resume Improver
-- Spanish ↔ English Translator
-- Song Lyrics Sentiment Analyzer
-- Iris EDA + ML Project
-- El Salvador News Scraper
-- Hello World Python (Spanish)
+- Resume & Portfolio Generator (Lovable.dev)
+- AI Resume Improver (Lovable.dev)
+- Spanish ↔ English Translator (Replit)
+- Song Lyrics Sentiment Analyzer (Replit)
+- Iris EDA + ML Project (Cursor AI)
+- El Salvador News Scraper (Cursor AI)
+- Hello World Python (Cursor AI)
 
 ### 2. 🤖 [AI Agents](./ai-agents/)
-**Building intelligent autonomous systems**
+**Building intelligent autonomous systems** *(Coming Soon)*
 
 Dive deep into AI agent development, from simple chatbots to complex multi-agent systems. Learn about agent architectures, memory systems, and autonomous decision-making.
 
@@ -42,44 +42,77 @@ Dive deep into AI agent development, from simple chatbots to complex multi-agent
 - Research Assistant Agent
 - Creative Writing Agent
 
+## 📁 Repository Structure
+
+```
+ai-para-todos/
+├── README.md                    # This file
+├── vibe-coding/                 # First workshop series
+│   ├── README.md               # Workshop overview
+│   ├── prompts/                # No-code and low-code prompts
+│   │   ├── lovable-dev/        # Lovable.dev project prompts
+│   │   └── replit/             # Replit project prompts
+│   ├── code/                   # Python code for Cursor AI
+│   │   ├── iris-eda-ml/        # Data science project
+│   │   ├── news-scraper/       # Web scraping project
+│   │   └── hello-world/        # Basic Python project
+│   ├── resources/              # Additional materials
+│   │   ├── setup-guides/       # Platform setup instructions
+│   │   └── templates/          # Project templates
+│   └── solutions/              # Completed project examples
+├── ai-agents/                  # Second workshop series (coming soon)
+└── LICENSE                     # MIT License
+```
+
 ## 🛠️ Prerequisites
 
-### For Vibe Coding
+### For Vibe Coding (July 11th)
 - Basic computer skills
 - Internet connection
 - No coding experience required
+- **Setup Time:** 15 minutes before workshop
 
-### For AI Agents
+### For AI Agents (Coming Soon)
 - Python programming experience
 - Understanding of AI/ML concepts
 - Familiarity with APIs
+- Completion of Vibe Coding workshop recommended
 
 ## 🚀 Getting Started
 
-1. **Choose your starting point** based on your experience level
-2. **Follow the workshop series** in order for best results
-3. **Complete the projects** to build your portfolio
-4. **Share your work** and get feedback from the community
+### For July 11th Workshop
+1. **Review the structure** above
+2. **Check setup guides** in `vibe-coding/resources/setup-guides/`
+3. **Prepare accounts** for Lovable.dev, Replit, and Cursor AI
+4. **Join the workshop** ready to build!
+
+### Workshop Flow (July 11th)
+- **Session 1 (30 min):** Lovable.dev - No-code AI
+- **Session 2 (45 min):** Replit - Low-code AI  
+- **Session 3 (45 min):** Cursor AI - Advanced coding
+- **Q&A & Networking (30 min)**
 
 ## 📚 Learning Path
 
 ```
-Beginner: Vibe Coding → AI Agents
+Beginner: Vibe Coding (July 11th) → AI Agents (Coming Soon)
 ```
 
 ## 🎓 What You'll Learn
 
-### Vibe Coding
-- No-code AI application development
-- Basic Python programming
-- AI model integration
-- Data analysis fundamentals
+### Vibe Coding (July 11th)
+- **No-code AI application development**
+- **Basic Python programming**
+- **AI model integration**
+- **Data analysis fundamentals**
+- **Portfolio building**
 
-### AI Agents
-- Agent architecture design
-- Multi-agent systems
-- Autonomous decision making
-- Advanced AI integration
+### AI Agents (Coming Soon)
+- **Agent architecture design**
+- **Multi-agent systems**
+- **Autonomous decision making**
+- **Advanced AI integration**
+- **Real-world applications**
 
 ## 🤝 Contributing
 
@@ -97,6 +130,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🌟 Community
 
 - **Workshop Events:** Attend live workshops and hackathons
+- **July 11th Event:** Vibe Coding Workshop - Register now!
 
 **Connect with us:**
 - [GitHub](https://github.com/techqueria)
