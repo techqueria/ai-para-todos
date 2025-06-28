@@ -5,7 +5,7 @@ Welcome to **AI Para Todos** (AI for Everyone)! This repository contains three c
 ## 🎯 Workshop Series Overview
 
 ### 1. 🎨 [AI Para Todos - Vibe Coding](./vibe-coding/)
-**Beginner-friendly introduction to Generative AI** *(July 11th, 2024)*
+**Beginner-friendly introduction to Generative AI** *(July 11th, 2025)*
 
 Learn the fundamentals of Generative AI through hands-on projects using no-code and low-code tools. Perfect for those new to AI and coding.
 
